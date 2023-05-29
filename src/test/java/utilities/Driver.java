@@ -10,6 +10,14 @@ import org.openqa.selenium.safari.SafariDriver;
 import java.time.Duration;
 
 public class Driver {
+    /*
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/emrecigit/com.team113.Cucumber.git
+git push -u origin main
+     */
     private static WebDriver driver;
     private Driver(){
         /* Singleton pattern kullanilarak istenmeyen yontemlerle
